@@ -1,3 +1,2 @@
 # HolidayTravelVehicles
-
-## 6688056 Prempaveen Lerttraipop
+6688056 Prempaveen Lerttraipop
